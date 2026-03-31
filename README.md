@@ -1,5 +1,3 @@
-<img width="1833" height="397" alt="image" src="https://github.com/user-attachments/assets/4504c71e-59f7-410d-9fc0-8fa792178015" /># 🚀 Network Portfolio
-
 ### 👤 Info
 * **Name:** นายพีรพล แก้วเจริญสันติสุข
 * **Student ID:** 673380287-8
