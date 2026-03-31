@@ -36,7 +36,7 @@
 
 ### 📜 Certificate
 
-![Alt text](<img width="1999" height="1354" alt="image" src="https://github.com/user-attachments/assets/9bd7a785-3955-4e74-ae95-42d63adfc5be" />)
+![Alt text](certificate/certificate.jpg)
 
 ---
 ### ✅ Check Point
