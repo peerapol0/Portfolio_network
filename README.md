@@ -43,7 +43,6 @@
 ---
 ### ✅ Check Point
 
-<img width="1872" height="427" alt="image" src="<img width="1833" height="397" alt="image" src="https://github.com/user-attachments/assets/75802b4a-d04f-45dd-978a-bfeb48bf9645" />
-" />
+<img width="1833" height="397" alt="image" src="https://github.com/user-attachments/assets/75802b4a-d04f-45dd-978a-bfeb48bf9645"/>
 
 ---
