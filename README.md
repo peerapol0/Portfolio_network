@@ -22,9 +22,9 @@
 | Assignment | Link |
 | :--- | :--- |
 | **LAB1** | [View Repo](https://docs.google.com/document/d/1CuFMpCdbbVWx6gqzOhGfBZptw7b1v-DY4cGacJzp8Tw/edit?tab=t.pb9qrv2iy2xu) |
-| **LAB1** | [View Repo](https://docs.google.com/document/d/1M1TbAzRN5niSwk0gXhkETBWikQgHy-IJjH47s5qbfDc/edit?tab=t.0) |
-| **LAB1** | [View Repo](https://docs.google.com/document/d/1gdskpdK1Js8NBhjNEyqOABlLf61I_3X2/edit#heading=h.v7qs8ooguldw) |
-| **LAB1** | [View Repo](https://docs.google.com/document/d/1NJnRJEsZ7ckoM6w7Vkn80CA0OOFWpjfKEOCZHGylDng/edit?tab=t.0) |
+| **LAB2** | [View Repo](https://docs.google.com/document/d/1M1TbAzRN5niSwk0gXhkETBWikQgHy-IJjH47s5qbfDc/edit?tab=t.0) |
+| **LAB3** | [View Repo](https://docs.google.com/document/d/1gdskpdK1Js8NBhjNEyqOABlLf61I_3X2/edit#heading=h.v7qs8ooguldw) |
+| **LAB4** | [View Repo](https://docs.google.com/document/d/1NJnRJEsZ7ckoM6w7Vkn80CA0OOFWpjfKEOCZHGylDng/edit?tab=t.0) |
 | **NEW NETWORK** | [View Repo](https://drive.google.com/drive/folders/1T7mf2aWWHqJ6W7vkmb3mFaj8Ckf7KNAy?usp=sharing) |
 
 ---
